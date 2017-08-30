@@ -1,6 +1,6 @@
 # MaximusCoreXY
 
-WikiSite reprap.org/wiki/MaximusCoreXY
+WikiSite http://www.reprap.org/wiki/MaximusCoreXY
 
 Maximus CORE XY es una impresora 3D del tipo FDM, su funcionamiento se basa en un Arduino Mega y shield RAMPS v1.4 La maquina esta hecha con piezas cortadas con laser en chapa 1/8" como la P3Steel. Posee una estructura metálica cerrada con una puerta abisagrada, de acrilico y paneles en los laterales , iluminacion, lcd, Lector SD, Cama Caliente, Dos Extrusores. 
 
